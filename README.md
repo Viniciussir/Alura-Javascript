@@ -1,2 +1,2 @@
 # Alura-Javascript
-Este projeto foi desenvolvido junto ao Curso de JavaScript: Interfaces e Herança em Orientação a Objetos na plataforma Alura
+Este projeto foi desenvolvido junto ao Curso de JavaScript para Desenvolvimento Front-End na plataforma Alura
